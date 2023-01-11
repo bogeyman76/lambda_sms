@@ -19,3 +19,5 @@ The execution role must contain the following to allow the message to be sent:
   "Resource": "*"
 }
 
+For reference:
+https://docs.aws.amazon.com/sns/latest/dg/sns-mobile-phone-number-as-subscriber.html
