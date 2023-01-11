@@ -1,5 +1,5 @@
 # lambda_sms
-Sends a text message to a phone number from AWS Lambda
+Description: Sends a text message to a phone number from AWS Lambda
 
 This is a sample script of how to send a text message from Lambda.
 
